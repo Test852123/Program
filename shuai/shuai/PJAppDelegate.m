@@ -22,6 +22,7 @@
     
     NSLog(@"海聪说：我不服");
     
+    NSLog(@"睿智哥 不服");
     
     return YES;
 }
